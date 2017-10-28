@@ -1,5 +1,5 @@
 # NTU-Course-Registration-System-STARS
-Assignment for CZ2002 - Object Oriented Programming
+Group Project for CZ2002 - Object Oriented Programming
 
 This is a java console application that allows users(students/admin) to do the following actions. The console application emulates the  GUI STARS system that NTU is currently using.
 
@@ -23,3 +23,21 @@ Admin
 7) Print list of student by index group number
 8) Print list of students by course
 9) Logout
+
+
+**Instructions** 
+1. Run execute.bat in the Program folder
+
+2. Use these accounts to log in
+Accounts: 
+
+Admin
+username :admin1
+password: P@ssw0rd
+
+Students
+username :TANG0101
+password: password
+
+username :POHK1010
+password :password
