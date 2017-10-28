@@ -26,18 +26,18 @@ Admin
 
 
 **Instructions** 
-1. Run execute.bat in the Program folder
+1. Run execute.bat in the Program folder  
 
 2. Use these accounts to log in
 Accounts: 
 
-Admin
-username :admin1
-password: P@ssw0rd
+Admin  
+username :admin1  
+password: P@ssw0rd  
 
-Students
-username :TANG0101
-password: password
+Students  
+username :TANG0101  
+password: password  
 
-username :POHK1010
-password :password
+username :POHK1010  
+password :password  
